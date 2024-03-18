@@ -1,0 +1,15 @@
+C:\Users\maria\Downloads\Ninha\Beecrowd\Desafios iniciante\bin\Debug\net8.0\Desafios iniciante.exe
+C:\Users\maria\Downloads\Ninha\Beecrowd\Desafios iniciante\bin\Debug\net8.0\Desafios iniciante.deps.json
+C:\Users\maria\Downloads\Ninha\Beecrowd\Desafios iniciante\bin\Debug\net8.0\Desafios iniciante.runtimeconfig.json
+C:\Users\maria\Downloads\Ninha\Beecrowd\Desafios iniciante\bin\Debug\net8.0\Desafios iniciante.dll
+C:\Users\maria\Downloads\Ninha\Beecrowd\Desafios iniciante\bin\Debug\net8.0\Desafios iniciante.pdb
+C:\Users\maria\Downloads\Ninha\Beecrowd\Desafios iniciante\obj\Debug\net8.0\Desafios iniciante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Downloads\Ninha\Beecrowd\Desafios iniciante\obj\Debug\net8.0\Desafios iniciante.AssemblyInfoInputs.cache
+C:\Users\maria\Downloads\Ninha\Beecrowd\Desafios iniciante\obj\Debug\net8.0\Desafios iniciante.AssemblyInfo.cs
+C:\Users\maria\Downloads\Ninha\Beecrowd\Desafios iniciante\obj\Debug\net8.0\Desafios iniciante.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\Ninha\Beecrowd\Desafios iniciante\obj\Debug\net8.0\Desafios iniciante.sourcelink.json
+C:\Users\maria\Downloads\Ninha\Beecrowd\Desafios iniciante\obj\Debug\net8.0\Desafios iniciante.dll
+C:\Users\maria\Downloads\Ninha\Beecrowd\Desafios iniciante\obj\Debug\net8.0\refint\Desafios iniciante.dll
+C:\Users\maria\Downloads\Ninha\Beecrowd\Desafios iniciante\obj\Debug\net8.0\Desafios iniciante.pdb
+C:\Users\maria\Downloads\Ninha\Beecrowd\Desafios iniciante\obj\Debug\net8.0\Desafios iniciante.genruntimeconfig.cache
+C:\Users\maria\Downloads\Ninha\Beecrowd\Desafios iniciante\obj\Debug\net8.0\ref\Desafios iniciante.dll
